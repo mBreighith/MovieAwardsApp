@@ -5,7 +5,7 @@ npm i -> then
 
 Or:
 npm i then -> 
-- npm start-api // to run the server
+- npm run start-api // to run the server
 - npm start // to run the react project
 
 
